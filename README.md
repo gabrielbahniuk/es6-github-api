@@ -1,2 +1,3 @@
 # es6-github-api
-Simple ES6+ Github API tool to fetch data
+
+![](http://g.recordit.co/rdKLi12L82.gif)
