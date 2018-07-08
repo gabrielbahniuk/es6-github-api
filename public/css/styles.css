@@ -1,0 +1,28 @@
+img {
+    width: 8%;
+    height: 8%;
+}
+
+li {
+    display: flex !important;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+}
+strong {
+    font-size:1.5em;
+}
+
+li > a {
+    width: 10% !important;
+}
+
+a > img {
+    width: 25%;
+    height: 25%;
+}
+
+p {
+    font-size:1em;
+}
