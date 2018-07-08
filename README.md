@@ -2,4 +2,4 @@
 
 ![](http://g.recordit.co/rdKLi12L82.gif)
 
-#### Open your prompt and type ```yarn run dev```
+#### Open your prompt and type ```yarn install``` and ```yarn run dev``` to run the project.
